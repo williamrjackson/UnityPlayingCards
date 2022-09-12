@@ -1,0 +1,1411 @@
+fileFormatVersion: 2
+guid: d045a4124f8774feca17b77692e2b3b4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ad4d9b450c6434a99b861c9ef9fa7c
+      internalID: -1207501478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 319
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f75475adc58496ca2dca02578ca711
+      internalID: -641137290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 319
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a6838c9a0ac4ec8a2bba9b7ac93565
+      internalID: -372177700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 319
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56553fe2d374d4e7ca98aec035884e39
+      internalID: 1578482963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 319
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6375513972c04f2f94ff6a7cf61d8e2
+      internalID: 1156818289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_18
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 319
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3582c39e104948d7943f5f22bb71813
+      internalID: -694552594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_20
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 319
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72e69a7e050144ac940ddd7d8bd2c46
+      internalID: -1628909178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_21
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 319
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d05be24d0d94995a41d2fec37ecd09
+      internalID: 315122126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_22
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 319
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90716022aae0443891de49deff4e0d1
+      internalID: 1641165302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_23
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 319
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb545ea515e1045aebc40cdf290f614e
+      internalID: -2018718135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_24
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 319
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b8be71df4947ec99ea6c40eb04050
+      internalID: 391430613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_25
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 319
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730b8c8966a0049a1b20d733f8d12aa8
+      internalID: -1265507945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 213
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce26d45bf1c6406db5bae05cf0727d6
+      internalID: 1295720155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_27
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 213
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b337b8a96b094cc8991bf100576bd19
+      internalID: 1808757936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 213
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80f6bb513fcc401eb9b0c99b03ffc3a
+      internalID: 1260693829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_29
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 213
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1faf74600e6c483f8f6d9fce9222221
+      internalID: -1575739265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_30
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 213
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909f8787d6d18424189f045c0cab06c6
+      internalID: 1015814565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_31
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 213
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e19e01ecd8fc4edbb419a498b218996
+      internalID: 2014490245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_32
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 213
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dfd5577c70d46a8a36c61724af1ba2
+      internalID: 1805059699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_33
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 213
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282cf98ec872e4231ab6255528f4bb22
+      internalID: -1769140559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_34
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 213
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce03541e13b9410d815231d8ddbd254
+      internalID: -1023951646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_35
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 213
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ebc0831b4a047b8ab70c3469c4f860
+      internalID: 2006358613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_36
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 213
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44837003758644c0b84bc5c6ffa20df
+      internalID: -801062463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_37
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 213
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aecdc49f7114772b6ba1f31987c829
+      internalID: -608647289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97dcf1345b2345a6906119972615ba9
+      internalID: 1026519377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_40
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 107
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3630f3b7fd98d479aa33e2c7bac156f9
+      internalID: 831842049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_41
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 107
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e174be504469409c9792b3ec1879137
+      internalID: -1099231458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_42
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 107
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e971f294b75d4597829e94203213041
+      internalID: -217730561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_43
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 107
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfef4a08432d246b9891e3d69d972083
+      internalID: -1014363369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_44
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 107
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d12b89dc46e4da8b0064621f4f91c9
+      internalID: -561080807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_45
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 107
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc09a4f9e56b477c8d4260677c47097
+      internalID: 1783170786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_46
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 107
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80a0e8bfb0a34e7f98a05d3f0fa81cd
+      internalID: 736113271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_47
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 107
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3ef37e11f1c4860815726dd1fcbe5a
+      internalID: 1241120469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_48
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 107
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b77607866554395aad1800f393ec80
+      internalID: -1641935254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_49
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 107
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5eaba5bfdfb461ca97545e4d7c4c42
+      internalID: 1076541143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_50
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 107
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9394b7f87d5fd42bfb9de71ce8f1496b
+      internalID: -171239873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_51
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 107
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e817767aaae4d5fb8de7421ac6a809
+      internalID: -1393742803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a81cce1ae8d457dae6736bd0f88d79
+      internalID: 1457489372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_53
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc37b45d6e4964f0480266b3a94247d1
+      internalID: -1573652869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_54
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16f89d2dd8ba4f74b85f1ce13bfb781
+      internalID: -1424341730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 425
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f29d395cd3964c1fbd9808faf23b33d
+      internalID: -949779416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 425
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05558658f6d424244bbc7a3eb35cdce5
+      internalID: -1388743648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 425
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e193ec9291d4c487eb7255d1454774bb
+      internalID: -606121827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 425
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569d301a27ad843afaee1a94b13c5a48
+      internalID: -1196887901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 425
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f21c3504ae1148d9865b4c96446b72a
+      internalID: 327215166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_5
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 425
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f211afdb71b478a8dc3af79ca84ab2
+      internalID: -721551971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 425
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6efb5048e8641739a35ed613d75290
+      internalID: -91443976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_7
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 425
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775d3e71edf9344b3b7c736d9d32b145
+      internalID: -977705437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_8
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 425
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956058963b6b14e54aeb76ff1d442d97
+      internalID: 505274371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_9
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 425
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4952255d6814d4f539c247a243faec55
+      internalID: 539603265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_10
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 425
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dfadff104b74e1795cc5fe1ae72b2c
+      internalID: 1542256361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_11
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 425
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11110fddcbfa24d7e99fa810d7c8aa20
+      internalID: -1203996886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_12
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 425
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde232e66c5744417816d14b5f8c5265
+      internalID: -1885930385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_19
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 319
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3844a28aacc5489f973880ff3bde865
+      internalID: 700163608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows
+        Version_38
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 213
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e280bd79d0ea4ae48c58fb303810b92
+      internalID: 1777692552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 386a4f93b9a1f418f9c46881fb602e0f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_35: 2006358613
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_41: -1099231458
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_50: -171239873
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_1: -1388743648
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_46: 736113271
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_10: 1542256361
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_22: 1641165302
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_52: 1457489372
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_42: -217730561
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_49: 1076541143
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_19: 700163608
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_27: 1808757936
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_34: -1023951646
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_3: -1196887901
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_9: 539603265
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_44: -561080807
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_45: 1783170786
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_16: 1578482963
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_23: -2018718135
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_38: 1777692552
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_51: -1393742803
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_33: -1769140559
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_48: -1641935254
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_21: 315122126
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_40: 831842049
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_14: -641137290
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_43: -1014363369
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_24: 391430613
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_30: 1015814565
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_4: 327215166
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_12: -1885930385
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_29: -1575739265
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_36: -801062463
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_26: 1295720155
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_11: -1203996886
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_7: -977705437
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_39: 1026519377
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_15: -372177700
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_6: -91443976
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_18: -694552594
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_5: -721551971
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_8: 505274371
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_28: 1260693829
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_17: 1156818289
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_13: -1207501478
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_31: 2014490245
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_25: -1265507945
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_0: -949779416
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_47: 1241120469
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_53: -1573652869
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_54: -1424341730
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_20: -1628909178
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_37: -608647289
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_2: -606121827
+      PC Computer - Bicycle Solitaire Bicycle Poker - Playing Cards Windows Version_32: 1805059699
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
